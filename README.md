@@ -1,2 +1,2 @@
 # stop-corona.github.io
-corona website
+stop corona website
