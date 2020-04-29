@@ -1,0 +1,27 @@
+body{font-family:'EB Garamond',sans-serif}
+.bottom-title,.info,.red-nine,.up-title{font-family:'EB Garamond',serif}
+#bg-hero{width:100%;height:100vh;background:radial-gradient(#872BAE,#370057)}
+.nav-menu{width:90%;margin:0 auto}
+#banner{margin-bottom:13em;color:#fff}
+.up-title{font-weight:700;font-size:3.3em}
+.bottom-title{font-style:normal;letter-spacing:.2em}
+.red-nine{color:red}
+#corona-img{width:50%}
+#what-is-covid{width:100%;height:90vh;background-image:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.56)),url("../img/Background image.jpg?h=f6ee14032d2315340fbfd7171dd73b55");background-position:center;background-size:cover;background-repeat:no-repeat}
+.info{color:#fff;width:100%;margin:0 auto;padding-top:5em}
+.comp-row{margin-left:0;margin-right:0}
+.covid-info{padding-bottom:0;padding-top:0}
+.covid-para{width:90%;margin:1em auto 0;font-size:1.3em}
+.world-statics{width:100%;height:30vh;background-color:#460867}
+.icon{width:40%}
+.icon-info{font-family:'EB Garamond',sans-serif;font-weight:400;font-size:1.3em}
+#dont-Afraid{width:100%;height:75vh;background-color:#d5d4d4}
+.fight-para{font-size:1.2em}
+#five-steps-cure{width:100%;background-color:#3ca4de;color:#fff}
+.cure-steps{color:#030303;font-family:sans-serif}
+.row.d-flex.align-items-center.cure-steps{margin-right:0;margin-left:0}
+.cure-para{width:90%;margin:0 auto}
+/*Footer*/
+.bottom-title,.up-title{text-shadow:3px 3px 2px rgba(0,0,0,.85)}
+.footer-basic{padding:40px 0;background-color:#000;color:#4b4c4d}
+.footer-basic .copyright{margin-top:15px;text-align:center;font-size:13px;color:#aaa;margin-bottom:0}
